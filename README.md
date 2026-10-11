@@ -35,8 +35,6 @@ The report uses an Orders table and a Calendar table connected through Order Dat
 - Profitability risks: The report identified 1,901 negative-profit rows. Management should investigate loss-making products and discount practices to understand the causes and identify opportunities to improve profitability.
   
 
-*These are initial observations; quantify and validate the findings against the final report before presenting them as conclusions.*
-
 ## Limitations
 Profit margin is calculated as total profit divided by total sales. Net profit margin is not reported because sufficient expense and tax data is unavailable.
 
