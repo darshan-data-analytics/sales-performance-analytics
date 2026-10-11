@@ -30,8 +30,10 @@ The report uses an Orders table and a Calendar table connected through Order Dat
 
 ## Business Insights
 - Regional revenue differs across regions.
-- Product revenue and profitability vary, highlighting products that warrant further investigation.
-- Negative-profit transactions should be investigated to understand the impact of discounts and product costs.
+- Overall performance: The business generated ₹2.33M in total revenue and ₹292.30K in total profit, with an overall profit margin of 12.56%.
+- Regional performance: The West region recorded the highest revenue in the displayed chart, while the South region recorded the lowest. Management should investigate differences in regional sales performance and product mix.
+- Profitability risks: The report identified 1,901 negative-profit rows. Management should investigate loss-making products and discount practices to understand the causes and identify opportunities to improve profitability.
+  
 
 *These are initial observations; quantify and validate the findings against the final report before presenting them as conclusions.*
 
