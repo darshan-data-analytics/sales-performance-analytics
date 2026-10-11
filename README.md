@@ -49,6 +49,7 @@ Profit margin is calculated as total profit divided by total sales. Net profit m
 
 ## Dashboard Preview
 
+![Sales Performance Analytics Dashboard](./Project%201_Sales_Performance_Analysis/screenshots/Sales%20performance%20dashboard.png)
 
 
 ## Author
