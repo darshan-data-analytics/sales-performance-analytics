@@ -43,5 +43,13 @@ Profit margin is calculated as total profit divided by total sales. Net profit m
 - `screenshots/` — Dashboard screenshots
 - `data/` — Dataset source and access instructions
 
+## Power BI Report
+
+[Download the Power BI report](./Project%201_Sales_Performance_Analysis/powerbi/Sales_Performance_Analytics.pbix)
+
+## Dashboard Preview
+
+
+
 ## Author
 Data Analytics Portfolio Project
